@@ -1,6 +1,7 @@
 # Gapminder Data App
 
 ## Link to App
+https://jrchan01.shinyapps.io/Gapminderdataset/
 
 ## Description of App
 This app allows viewers to explore a table associated with the Gapminder dataset (see below for more information), an example plot, and an image of the world map. Additionally, viewers can use a filter function to visualize data about specific continents that interest them and specify what years they want included. 
