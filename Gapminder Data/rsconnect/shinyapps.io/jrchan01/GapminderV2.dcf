@@ -1,0 +1,12 @@
+name: GapminderV2
+title: GapminderV2
+username: jrchan01
+account: jrchan01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13493081
+bundleId: 9445027
+url: https://jrchan01.shinyapps.io/GapminderV2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
